@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "continent": "Asia",
+    "colors": ["black", "red", "green", "white"],
+    "image": "afghanistan.png"
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "continent": "Europe",
+    "colors": ["red", "black"],
+    "image": "albania.png"
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "continent": "Africa",
+    "colors": ["green", "white", "red"],
+    "image": "algeria.png"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "continent": "Europe",
+    "colors": ["blue", "yellow", "red"],
+    "image": "andorra.png"
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "continent": "Africa",
+    "colors": ["red", "black", "yellow"],
+    "image": "angola.png"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "continent": "North America",
+    "colors": ["red", "black", "blue", "white", "yellow"],
+    "image": "antigua_and_barbuda.png"
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "continent": "South America",
+    "colors": ["blue", "white", "yellow"],
+    "image": "argentina.png"
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "continent": "Asia",
+    "colors": ["red", "blue", "orange"],
+    "image": "armenia.png"
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "continent": "Oceania",
+    "colors": ["blue", "red", "white"],
+    "image": "australia.png"
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "continent": "Europe",
+    "colors": ["red", "white"],
+    "image": "austria.png"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "continent": "Asia",
+    "colors": ["blue", "red", "green", "white"],
+    "image": "azerbaijan.png"
+  },
+  {
+    "name": "Bahamas",
+    "code": "BS",
+    "continent": "North America",
+    "colors": ["black", "blue", "yellow"],
+    "image": "bahamas.png"
+  },
+  {
+    "name": "Bahrain",
+    "code": "BH",
+    "continent": "Asia",
+    "colors": ["red", "white"],
+    "image": "bahrain.png"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "continent": "Asia",
+    "colors": ["green", "red"],
+    "image": "bangladesh.png"
+  },
+  {
+    "name": "Barbados",
+    "code": "BB",
+    "continent": "North America",
+    "colors": ["blue", "yellow", "black"],
+    "image": "barbados.png"
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "continent": "Europe",
+    "colors": ["red", "green", "white"],
+    "image": "belarus.png"
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "continent": "Europe",
+    "colors": ["black", "yellow", "red"],
+    "image": "belgium.png"
+  },
+  {
+    "name": "Belize",
+    "code": "BZ",
+    "continent": "North America",
+    "colors": ["blue", "red", "white", "green", "yellow"],
+    "image": "belize.png"
+  },
+  {
+    "name": "Benin",
+    "code": "BJ",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red"],
+    "image": "benin.png"
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT",
+    "continent": "Asia",
+    "colors": ["yellow", "orange", "white"],
+    "image": "bhutan.png"
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO",
+    "continent": "South America",
+    "colors": ["red", "yellow", "green"],
+    "image": "bolivia.png"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "continent": "Europe",
+    "colors": ["blue", "yellow", "white"],
+    "image": "bosnia_and_herzegovina.png"
+  },
+  {
+    "name": "Botswana",
+    "code": "BW",
+    "continent": "Africa",
+    "colors": ["blue", "black", "white"],
+    "image": "botswana.png"
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "continent": "South America",
+    "colors": ["green", "yellow", "blue", "white"],
+    "image": "brazil.png"
+  },
+  {
+    "name": "Brunei",
+    "code": "BN",
+    "continent": "Asia",
+    "colors": ["yellow", "white", "black", "red"],
+    "image": "brunei.png"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "continent": "Europe",
+    "colors": ["white", "green", "red"],
+    "image": "bulgaria.png"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF",
+    "continent": "Africa",
+    "colors": ["red", "green", "yellow"],
+    "image": "burkina_faso.png"
+  },
+  {
+    "name": "Burundi",
+    "code": "BI",
+    "continent": "Africa",
+    "colors": ["red", "green", "white"],
+    "image": "burundi.png"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "CV",
+    "continent": "Africa",
+    "colors": ["blue", "white", "red", "yellow"],
+    "image": "cabo_verde.png"
+  },
+  {
+    "name": "Cambodia",
+    "code": "KH",
+    "continent": "Asia",
+    "colors": ["blue", "red", "white"],
+    "image": "cambodia.png"
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM",
+    "continent": "Africa",
+    "colors": ["green", "red", "yellow"],
+    "image": "cameroon.png"
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "continent": "North America",
+    "colors": ["red", "white"],
+    "image": "canada.png"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF",
+    "continent": "Africa",
+    "colors": ["blue", "white", "green", "yellow", "red"],
+    "image": "central_african_republic.png"
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "continent": "Africa",
+    "colors": ["blue", "yellow", "red"],
+    "image": "chad.png"
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "continent": "South America",
+    "colors": ["red", "white", "blue"],
+    "image": "chile.png"
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "continent": "Asia",
+    "colors": ["red", "yellow"],
+    "image": "china.png"
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "continent": "South America",
+    "colors": ["yellow", "blue", "red"],
+    "image": "colombia.png"
+  },
+  {
+    "name": "Comoros",
+    "code": "KM",
+    "continent": "Africa",
+    "colors": ["green", "white", "red", "yellow", "blue"],
+    "image": "comoros.png"
+  },
+  {
+    "name": "Congo",
+    "code": "CG",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red"],
+    "image": "congo.png"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "continent": "North America",
+    "colors": ["blue", "white", "red"],
+    "image": "costa_rica.png"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "code": "CI",
+    "continent": "Africa",
+    "colors": ["orange", "white", "green"],
+    "image": "cote_divoire.png"
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "continent": "Europe",
+    "colors": ["red", "white", "blue"],
+    "image": "croatia.png"
+  },
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "continent": "North America",
+    "colors": ["blue", "white", "red"],
+    "image": "cuba.png"
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "continent": "Europe",
+    "colors": ["white", "orange", "green"],
+    "image": "cyprus.png"
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZ",
+    "continent": "Europe",
+    "colors": ["white", "red", "blue"],
+    "image": "czech_republic.png"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "code": "CD",
+    "continent": "Africa",
+    "colors": ["blue", "red", "yellow"],
+    "image": "democratic_republic_of_the_congo.png"
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "continent": "Europe",
+    "colors": ["red", "white"],
+    "image": "denmark.png"
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJ",
+    "continent": "Africa",
+    "colors": ["blue", "green", "white", "red"],
+    "image": "djibouti.png"
+  },
+  {
+    "name": "Dominica",
+    "code": "DM",
+    "continent": "North America",
+    "colors": ["green", "yellow", "black", "white", "red"],
+    "image": "dominica.png"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "continent": "North America",
+    "colors": ["blue", "red", "white"],
+    "image": "dominican_republic.png"
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "continent": "South America",
+    "colors": ["yellow", "blue", "red"],
+    "image": "ecuador.png"
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "continent": "Africa",
+    "colors": ["red", "white", "black", "gold"],
+    "image": "egypt.png"
+  },
+  {
+    "name": "El Salvador",
+    "code": "SV",
+    "continent": "North America",
+    "colors": ["blue", "white"],
+    "image": "el_salvador.png"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "continent": "Africa",
+    "colors": ["green", "white", "red", "blue"],
+    "image": "equatorial_guinea.png"
+  },
+  {
+    "name": "Eritrea",
+    "code": "ER",
+    "continent": "Africa",
+    "colors": ["red", "green", "blue", "yellow"],
+    "image": "eritrea.png"
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "continent": "Europe",
+    "colors": ["blue", "black", "white"],
+    "image": "estonia.png"
+  },
+  {
+    "name": "Eswatini",
+    "code": "SZ",
+    "continent": "Africa",
+    "colors": ["blue", "red", "yellow", "white", "black"],
+    "image": "eswatini.png"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red", "blue"],
+    "image": "ethiopia.png"
+  },
+  {
+    "name": "Fiji",
+    "code": "FJ",
+    "continent": "Oceania",
+    "colors": ["blue", "white", "red"],
+    "image": "fiji.png"
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "continent": "Europe",
+    "colors": ["white", "blue"],
+    "image": "finland.png"
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "continent": "Europe",
+    "colors": ["blue", "white", "red"],
+    "image": "france.png"
+  },
+  {
+    "name": "Gabon",
+    "code": "GA",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "blue"],
+    "image": "gabon.png"
+  },
+  {
+    "name": "Gambia",
+    "code": "GM",
+    "continent": "Africa",
+    "colors": ["red", "blue", "green", "white"],
+    "image": "gambia.png"
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "continent": "Asia",
+    "colors": ["white", "red"],
+    "image": "georgia.png"
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "continent": "Europe",
+    "colors": ["black", "red", "yellow"],
+    "image": "germany.png"
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "continent": "Africa",
+    "colors": ["red", "yellow", "green", "black"],
+    "image": "ghana.png"
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "continent": "Europe",
+    "colors": ["blue", "white"],
+    "image": "greece.png"
+  },
+  {
+    "name": "Grenada",
+    "code": "GD",
+    "continent": "North America",
+    "colors": ["red", "yellow", "green"],
+    "image": "grenada.png"
+  },
+  {
+    "name": "Guatemala",
+    "code": "GT",
+    "continent": "North America",
+    "colors": ["blue", "white"],
+    "image": "guatemala.png"
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "continent": "Africa",
+    "colors": ["red", "yellow", "green"],
+    "image": "guinea.png"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "continent": "Africa",
+    "colors": ["red", "yellow", "green", "black"],
+    "image": "guinea_bissau.png"
+  },
+  {
+    "name": "Guyana",
+    "code": "GY",
+    "continent": "South America",
+    "colors": ["green", "yellow", "red", "black", "white"],
+    "image": "guyana.png"
+  },
+  {
+    "name": "Haiti",
+    "code": "HT",
+    "continent": "North America",
+    "colors": ["blue", "red", "white"],
+    "image": "haiti.png"
+  },
+  {
+    "name": "Honduras",
+    "code": "HN",
+    "continent": "North America",
+    "colors": ["blue", "white"],
+    "image": "honduras.png"
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "continent": "Europe",
+    "colors": ["red", "white", "green"],
+    "image": "hungary.png"
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "continent": "Europe",
+    "colors": ["blue", "red", "white"],
+    "image": "iceland.png"
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "continent": "Asia",
+    "colors": ["orange", "white", "green", "blue"],
+    "image": "india.png"
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "continent": "Asia",
+    "colors": ["red", "white"],
+    "image": "indonesia.png"
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "continent": "Asia",
+    "colors": ["green", "white", "red"],
+    "image": "iran.png"
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "continent": "Asia",
+    "colors": ["red", "white", "black", "green"],
+    "image": "iraq.png"
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "continent": "Europe",
+    "colors": ["green", "white", "orange"],
+    "image": "ireland.png"
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "continent": "Asia",
+    "colors": ["blue", "white"],
+    "image": "israel.png"
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "continent": "Europe",
+    "colors": ["green", "white", "red"],
+    "image": "italy.png"
+  },
+  {
+    "name": "Jamaica",
+    "code": "JM",
+    "continent": "North America",
+    "colors": ["black", "green", "yellow"],
+    "image": "jamaica.png"
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "continent": "Asia",
+    "colors": ["white", "red"],
+    "image": "japan.png"
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "continent": "Asia",
+    "colors": ["black", "white", "green", "red"],
+    "image": "jordan.png"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "continent": "Asia",
+    "colors": ["blue", "yellow"],
+    "image": "kazakhstan.png"
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "continent": "Africa",
+    "colors": ["black", "red", "green", "white"],
+    "image": "kenya.png"
+  },
+  {
+    "name": "Kiribati",
+    "code": "KI",
+    "continent": "Oceania",
+    "colors": ["red", "blue", "white", "yellow"],
+    "image": "kiribati.png"
+  },
+  {
+    "name": "Kuwait",
+    "code": "KW",
+    "continent": "Asia",
+    "colors": ["green", "white", "red", "black"],
+    "image": "kuwait.png"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "continent": "Asia",
+    "colors": ["red", "yellow"],
+    "image": "kyrgyzstan.png"
+  },
+  {
+    "name": "Laos",
+    "code": "LA",
+    "continent": "Asia",
+    "colors": ["red", "blue", "white"],
+    "image": "laos.png"
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "continent": "Europe",
+    "colors": ["maroon", "white"],
+    "image": "latvia.png"
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "continent": "Asia",
+    "colors": ["red", "white", "green"],
+    "image": "lebanon.png"
+  },
+  {
+    "name": "Lesotho",
+    "code": "LS",
+    "continent": "Africa",
+    "colors": ["blue", "white", "green", "black"],
+    "image": "lesotho.png"
+  },
+  {
+    "name": "Liberia",
+    "code": "LR",
+    "continent": "Africa",
+    "colors": ["red", "white", "blue"],
+    "image": "liberia.png"
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "continent": "Africa",
+    "colors": ["red", "black", "green", "white"],
+    "image": "libya.png"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "continent": "Europe",
+    "colors": ["blue", "red", "yellow"],
+    "image": "liechtenstein.png"
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "continent": "Europe",
+    "colors": ["yellow", "green", "red"],
+    "image": "lithuania.png"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "continent": "Europe",
+    "colors": ["red", "white", "blue"],
+    "image": "luxembourg.png"
+  },
+  {
+    "name": "Madagascar",
+    "code": "MG",
+    "continent": "Africa",
+    "colors": ["white", "red", "green"],
+    "image": "madagascar.png"
+  },
+  {
+    "name": "Malawi",
+    "code": "MW",
+    "continent": "Africa",
+    "colors": ["black", "red", "green"],
+    "image": "malawi.png"
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "continent": "Asia",
+    "colors": ["red", "white", "blue", "yellow"],
+    "image": "malaysia.png"
+  },
+  {
+    "name": "Maldives",
+    "code": "MV",
+    "continent": "Asia",
+    "colors": ["red", "green", "white"],
+    "image": "maldives.png"
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red"],
+    "image": "mali.png"
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "continent": "Europe",
+    "colors": ["white", "red"],
+    "image": "malta.png"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MH",
+    "continent": "Oceania",
+    "colors": ["blue", "white", "orange"],
+    "image": "marshall_islands.png"
+  },
+  {
+    "name": "Mauritania",
+    "code": "MR",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red"],
+    "image": "mauritania.png"
+  },
+  {
+    "name": "Mauritius",
+    "code": "MU",
+    "continent": "Africa",
+    "colors": ["red", "blue", "yellow", "green"],
+    "image": "mauritius.png"
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "continent": "North America",
+    "colors": ["green", "white", "red"],
+    "image": "mexico.png"
+  },
+  {
+    "name": "Micronesia",
+    "code": "FM",
+    "continent": "Oceania",
+    "colors": ["blue", "white"],
+    "image": "micronesia.png"
+  },
+  {
+    "name": "Moldova",
+    "code": "MD",
+    "continent": "Europe",
+    "colors": ["blue", "yellow", "red"],
+    "image": "moldova.png"
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "continent": "Europe",
+    "colors": ["red", "white"],
+    "image": "monaco.png"
+  },
+  {
+    "name": "Mongolia",
+    "code": "MN",
+    "continent": "Asia",
+    "colors": ["red", "blue", "yellow"],
+    "image": "mongolia.png"
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "continent": "Europe",
+    "colors": ["red", "yellow"],
+    "image": "montenegro.png"
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "continent": "Africa",
+    "colors": ["red", "green"],
+    "image": "morocco.png"
+  },
+  {
+    "name": "Mozambique",
+    "code": "MZ",
+    "continent": "Africa",
+    "colors": ["green", "black", "yellow", "white", "red"],
+    "image": "mozambique.png"
+  },
+  {
+    "name": "Myanmar",
+    "code": "MM",
+    "continent": "Asia",
+    "colors": ["yellow", "green", "red", "white"],
+    "image": "myanmar.png"
+  },
+  {
+    "name": "Namibia",
+    "code": "NA",
+    "continent": "Africa",
+    "colors": ["blue", "red", "green", "white", "yellow"],
+    "image": "namibia.png"
+  },
+  {
+    "name": "Nauru",
+    "code": "NR",
+    "continent": "Oceania",
+    "colors": ["blue", "yellow", "white"],
+    "image": "nauru.png"
+  },
+  {
+    "name": "Nepal",
+    "code": "NP",
+    "continent": "Asia",
+    "colors": ["red", "blue", "white"],
+    "image": "nepal.png"
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "continent": "Europe",
+    "colors": ["red", "white", "blue"],
+    "image": "netherlands.png"
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ",
+    "continent": "Oceania",
+    "colors": ["blue", "red", "white"],
+    "image": "new_zealand.png"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NI",
+    "continent": "North America",
+    "colors": ["blue", "white"],
+    "image": "nicaragua.png"
+  },
+  {
+    "name": "Niger",
+    "code": "NE",
+    "continent": "Africa",
+    "colors": ["orange", "white", "green"],
+    "image": "niger.png"
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "continent": "Africa",
+    "colors": ["green", "white"],
+    "image": "nigeria.png"
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "continent": "Asia",
+    "colors": ["red", "blue", "white"],
+    "image": "north_korea.png"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "continent": "Europe",
+    "colors": ["red", "yellow"],
+    "image": "north_macedonia.png"
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "continent": "Europe",
+    "colors": ["red", "white", "blue"],
+    "image": "norway.png"
+  },
+  {
+    "name": "Oman",
+    "code": "OM",
+    "continent": "Asia",
+    "colors": ["red", "white", "green"],
+    "image": "oman.png"
+  },
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "continent": "Asia",
+    "colors": ["green", "white"],
+    "image": "pakistan.png"
+  },
+  {
+    "name": "Palau",
+    "code": "PW",
+    "continent": "Oceania",
+    "colors": ["blue", "yellow"],
+    "image": "palau.png"
+  },
+  {
+    "name": "Palestine",
+    "code": "PS",
+    "continent": "Asia",
+    "colors": ["black", "white", "green", "red"],
+    "image": "palestine.png"
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "continent": "North America",
+    "colors": ["white", "red", "blue"],
+    "image": "panama.png"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "continent": "Oceania",
+    "colors": ["black", "red", "yellow", "white"],
+    "image": "papua_new_guinea.png"
+  },
+  {
+    "name": "Paraguay",
+    "code": "PY",
+    "continent": "South America",
+    "colors": ["red", "white", "blue"],
+    "image": "paraguay.png"
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "continent": "South America",
+    "colors": ["red", "white"],
+    "image": "peru.png"
+  },
+  {
+    "name": "Philippines",
+    "code": "PH",
+    "continent": "Asia",
+    "colors": ["blue", "red", "white", "yellow"],
+    "image": "philippines.png"
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "continent": "Europe",
+    "colors": ["white", "red"],
+    "image": "poland.png"
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "continent": "Europe",
+    "colors": ["green", "red", "yellow"],
+    "image": "portugal.png"
+  },
+  {
+    "name": "Qatar",
+    "code": "QA",
+    "continent": "Asia",
+    "colors": ["maroon", "white"],
+    "image": "qatar.png"
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "continent": "Europe",
+    "colors": ["blue", "yellow", "red"],
+    "image": "romania.png"
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "continent": "Europe",
+    "colors": ["white", "blue", "red"],
+    "image": "russia.png"
+  },
+  {
+    "name": "Rwanda",
+    "code": "RW",
+    "continent": "Africa",
+    "colors": ["blue", "yellow", "green"],
+    "image": "rwanda.png"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "continent": "North America",
+    "colors": ["green", "red", "black", "yellow", "white"],
+    "image": "saint_kitts_and_nevis.png"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LC",
+    "continent": "North America",
+    "colors": ["blue", "white", "black", "yellow"],
+    "image": "saint_lucia.png"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "continent": "North America",
+    "colors": ["blue", "yellow", "green"],
+    "image": "saint_vincent_and_the_grenadines.png"
+  },
+  {
+    "name": "Samoa",
+    "code": "WS",
+    "continent": "Oceania",
+    "colors": ["red", "blue", "white"],
+    "image": "samoa.png"
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "continent": "Europe",
+    "colors": ["white", "blue"],
+    "image": "san_marino.png"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "code": "ST",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red", "black"],
+    "image": "sao_tome_and_principe.png"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "continent": "Asia",
+    "colors": ["green", "white"],
+    "image": "saudi_arabia.png"
+  },
+  {
+    "name": "Senegal",
+    "code": "SN",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red"],
+    "image": "senegal.png"
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "continent": "Europe",
+    "colors": ["red", "blue", "white"],
+    "image": "serbia.png"
+  },
+  {
+    "name": "Seychelles",
+    "code": "SC",
+    "continent": "Africa",
+    "colors": ["blue", "yellow", "red", "white", "green"],
+    "image": "seychelles.png"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL",
+    "continent": "Africa",
+    "colors": ["green", "white", "blue"],
+    "image": "sierra_leone.png"
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "continent": "Asia",
+    "colors": ["red", "white"],
+    "image": "singapore.png"
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "continent": "Europe",
+    "colors": ["white", "blue", "red"],
+    "image": "slovakia.png"
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "continent": "Europe",
+    "colors": ["white", "blue", "red"],
+    "image": "slovenia.png"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SB",
+    "continent": "Oceania",
+    "colors": ["blue", "green", "yellow", "white"],
+    "image": "solomon_islands.png"
+  },
+  {
+    "name": "Somalia",
+    "code": "SO",
+    "continent": "Africa",
+    "colors": ["blue", "white"],
+    "image": "somalia.png"
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "continent": "Africa",
+    "colors": ["red", "blue", "green", "black", "yellow", "white"],
+    "image": "south_africa.png"
+  },
+  {
+    "name": "South Korea",
+    "code": "KR",
+    "continent": "Asia",
+    "colors": ["white", "red", "blue", "black"],
+    "image": "south_korea.png"
+  },
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "continent": "Africa",
+    "colors": ["black", "red", "green", "blue", "yellow", "white"],
+    "image": "south_sudan.png"
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "continent": "Europe",
+    "colors": ["red", "yellow"],
+    "image": "spain.png"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LK",
+    "continent": "Asia",
+    "colors": ["maroon", "yellow", "green", "orange"],
+    "image": "sri_lanka.png"
+  },
+  {
+    "name": "Sudan",
+    "code": "SD",
+    "continent": "Africa",
+    "colors": ["red", "white", "black", "green"],
+    "image": "sudan.png"
+  },
+  {
+    "name": "Suriname",
+    "code": "SR",
+    "continent": "South America",
+    "colors": ["green", "white", "red", "yellow"],
+    "image": "suriname.png"
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "continent": "Europe",
+    "colors": ["blue", "yellow"],
+    "image": "sweden.png"
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "continent": "Europe",
+    "colors": ["red", "white"],
+    "image": "switzerland.png"
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "continent": "Asia",
+    "colors": ["red", "white", "black", "green"],
+    "image": "syria.png"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJ",
+    "continent": "Asia",
+    "colors": ["red", "white", "green", "yellow"],
+    "image": "tajikistan.png"
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "continent": "Africa",
+    "colors": ["green", "blue", "black", "yellow"],
+    "image": "tanzania.png"
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "continent": "Asia",
+    "colors": ["red", "white", "blue"],
+    "image": "thailand.png"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TL",
+    "continent": "Asia",
+    "colors": ["red", "yellow", "black", "white"],
+    "image": "timor_leste.png"
+  },
+  {
+    "name": "Togo",
+    "code": "TG",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red", "white"],
+    "image": "togo.png"
+  },
+  {
+    "name": "Tonga",
+    "code": "TO",
+    "continent": "Oceania",
+    "colors": ["red", "white"],
+    "image": "tonga.png"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "continent": "North America",
+    "colors": ["red", "black", "white"],
+    "image": "trinidad_and_tobago.png"
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "continent": "Africa",
+    "colors": ["red", "white"],
+    "image": "tunisia.png"
+  },
+  {
+    "name": "Turkey",
+    "code": "TR",
+    "continent": "Asia",
+    "colors": ["red", "white"],
+    "image": "turkey.png"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TM",
+    "continent": "Asia",
+    "colors": ["green", "red", "white", "yellow"],
+    "image": "turkmenistan.png"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TV",
+    "continent": "Oceania",
+    "colors": ["blue", "red", "white", "yellow"],
+    "image": "tuvalu.png"
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "continent": "Africa",
+    "colors": ["black", "yellow", "red", "white"],
+    "image": "uganda.png"
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "continent": "Europe",
+    "colors": ["blue", "yellow"],
+    "image": "ukraine.png"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "continent": "Asia",
+    "colors": ["red", "green", "white", "black"],
+    "image": "united_arab_emirates.png"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "continent": "Europe",
+    "colors": ["red", "white", "blue"],
+    "image": "united_kingdom.png"
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "continent": "North America",
+    "colors": ["red", "white", "blue"],
+    "image": "united_states.png"
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "continent": "South America",
+    "colors": ["white", "blue", "yellow"],
+    "image": "uruguay.png"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "continent": "Asia",
+    "colors": ["blue", "white", "green", "red"],
+    "image": "uzbekistan.png"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VU",
+    "continent": "Oceania",
+    "colors": ["red", "green", "black", "yellow"],
+    "image": "vanuatu.png"
+  },
+  {
+    "name": "Vatican City",
+    "code": "VA",
+    "continent": "Europe",
+    "colors": ["yellow", "white"],
+    "image": "vatican_city.png"
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "continent": "South America",
+    "colors": ["yellow", "blue", "red", "white"],
+    "image": "venezuela.png"
+  },
+  {
+    "name": "Vietnam",
+    "code": "VN",
+    "continent": "Asia",
+    "colors": ["red", "yellow"],
+    "image": "vietnam.png"
+  },
+  {
+    "name": "Yemen",
+    "code": "YE",
+    "continent": "Asia",
+    "colors": ["red", "white", "black"],
+    "image": "yemen.png"
+  },
+  {
+    "name": "Zambia",
+    "code": "ZM",
+    "continent": "Africa",
+    "colors": ["green", "red", "black", "orange"],
+    "image": "zambia.png"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "continent": "Africa",
+    "colors": ["green", "yellow", "red", "black", "white"],
+    "image": "zimbabwe.png"
+  }
+]
