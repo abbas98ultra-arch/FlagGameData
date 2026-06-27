@@ -273,6 +273,13 @@
     "image": "congo.png"
   },
   {
+    "name": "Cook Islands",
+    "code": "CK",
+    "continent": "Oceania",
+    "colors": ["blue", "white", "red"],
+    "image": "cook_islands.png"
+  },
+  {
     "name": "Costa Rica",
     "code": "CR",
     "continent": "North America",
@@ -409,7 +416,7 @@
     "name": "Fiji",
     "code": "FJ",
     "continent": "Oceania",
-    "colors": ["blue", "white", "red"],
+    "colors": ["blue", "red", "white"],
     "image": "fiji.png"
   },
   {
@@ -500,14 +507,14 @@
     "name": "Guyana",
     "code": "GY",
     "continent": "South America",
-    "colors": ["green", "yellow", "red", "black", "white"],
+    "colors": ["green", "black", "yellow", "white", "red"],
     "image": "guyana.png"
   },
   {
     "name": "Haiti",
     "code": "HT",
     "continent": "North America",
-    "colors": ["blue", "red", "white"],
+    "colors": ["blue", "red"],
     "image": "haiti.png"
   },
   {
@@ -528,7 +535,7 @@
     "name": "Iceland",
     "code": "IS",
     "continent": "Europe",
-    "colors": ["blue", "red", "white"],
+    "colors": ["blue", "white", "red"],
     "image": "iceland.png"
   },
   {
@@ -567,13 +574,6 @@
     "image": "ireland.png"
   },
   {
-    "name": "Israel",
-    "code": "IL",
-    "continent": "Asia",
-    "colors": ["blue", "white"],
-    "image": "israel.png"
-  },
-  {
     "name": "Italy",
     "code": "IT",
     "continent": "Europe",
@@ -584,7 +584,7 @@
     "name": "Jamaica",
     "code": "JM",
     "continent": "North America",
-    "colors": ["black", "green", "yellow"],
+    "colors": ["green", "yellow", "black"],
     "image": "jamaica.png"
   },
   {
@@ -619,7 +619,7 @@
     "name": "Kiribati",
     "code": "KI",
     "continent": "Oceania",
-    "colors": ["red", "blue", "white", "yellow"],
+    "colors": ["red", "yellow", "blue", "white"],
     "image": "kiribati.png"
   },
   {
@@ -667,7 +667,7 @@
   {
     "name": "Liberia",
     "code": "LR",
-    "continent": "Africa",
+    "continent": "North America",
     "colors": ["red", "white", "blue"],
     "image": "liberia.png"
   },
@@ -745,7 +745,7 @@
     "name": "Marshall Islands",
     "code": "MH",
     "continent": "Oceania",
-    "colors": ["blue", "white", "orange"],
+    "colors": ["blue", "orange", "white"],
     "image": "marshall_islands.png"
   },
   {
@@ -880,6 +880,13 @@
     "continent": "Africa",
     "colors": ["green", "white"],
     "image": "nigeria.png"
+  },
+  {
+    "name": "Niue",
+    "code": "NU",
+    "continent": "Oceania",
+    "colors": ["yellow", "blue", "red", "white"],
+    "image": "niue.png"
   },
   {
     "name": "North Korea",
